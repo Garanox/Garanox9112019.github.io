@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## This is Dale's git hub site
 
-You can use the [editor on GitHub](https://github.com/Garanox/Garanox.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my first time on git hub and i made a site for future use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I don't have a specialty yet because i'm still learning everythin i need to know. 
 
-### Markdown
+### List of progects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's nothing here right now, because i'm still trying to learn all the different languages
 
 ```markdown
-Syntax highlighted code block
+##SKills and progects:
+-Basic understand of HTML
+-Basic javascript knowledge
+-Networking basics
+-Intermediate C# knowledge
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Garanox/Garanox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact information
+Drop me an email at: [daleheinbecker@gmail.com]
+or on github
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thanks
+Thanks for taking a look at my page
+
