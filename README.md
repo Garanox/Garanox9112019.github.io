@@ -10,10 +10,10 @@ There's nothing here right now, because i'm still trying to learn all the differ
 
 ```markdown
 ##SKills and progects:
--Basic understand of HTML
--Basic javascript knowledge
--Networking basics
--Intermediate C# knowledge
+-Low level HTML Knowledge
+-Intermediate C# Knowledge
+-Low C++ Knowledge
+-Intermediate Javascript Knowledge
 
 
 ```
